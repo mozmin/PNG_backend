@@ -21,7 +21,7 @@
 | Database · Cache | MySQL, Redis, Flyway |
 | Messaging | RabbitMQ, FCM |
 | 장애 대응 | Resilience4j |
-| Infra | AWS EC2, Docker, GitHub Actions |
+| Infra | AWS LightSail, Docker, GitHub Actions |
 | 모니터링 · 테스트 | Prometheus, Grafana, k6, JUnit |
 | 외부 연동 | 카카오 로컬·길찾기, 기상청 예보, 일출일몰, 에어코리아, 한국관광공사 TourAPI, OpenAI |
 
